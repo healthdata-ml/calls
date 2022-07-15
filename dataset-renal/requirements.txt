@@ -14,7 +14,7 @@ cycler==0.10.0
 dask==2.3.0
 decorator==4.4.0
 defusedxml==0.6.0
-distributed==2.3.2
+distributed==2021.10.0
 entrypoints==0.3
 Fiona==1.8.6
 flake8==3.7.8
